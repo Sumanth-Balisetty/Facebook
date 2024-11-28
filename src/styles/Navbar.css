@@ -1,0 +1,73 @@
+.nav{
+    background-color:rgb(57, 53, 53);
+    height: 70px;
+    width: 100%;
+   
+    
+}
+.nav-bar{
+    color: white;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.left-nav{
+    color: rgb(64, 64, 244);
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    
+
+}
+.facebook-icon{
+    
+    font-size: 40px;
+
+   
+}
+.search-bar{
+    border-radius: 2%;
+    height: 25px;
+    width: 200px;
+    outline: none;
+    border-radius: 25px;
+    padding: 8px;
+}
+.search{
+    position: relative;
+  
+    
+
+}
+.search-icon{
+    position: absolute;
+    top:12px;
+    left:10px;
+    
+    
+}
+.search-bar{
+    padding-left: 33px;
+}
+.fb{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}
+.middle-nav{
+    padding-right: 250px;
+}
+.right-nav{
+    display: flex;
+    align-items: center;
+
+}
+.profile{
+    display: flex;
+    align-items: center;
+}
